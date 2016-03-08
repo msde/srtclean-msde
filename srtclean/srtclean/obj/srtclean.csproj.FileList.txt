@@ -1,0 +1,16 @@
+bin\Debug\srtclean.exe
+bin\Debug\srtclean.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\srtclean.FormSRTClean.resources
+obj\Debug\srtclean.Properties.Resources.resources
+obj\Debug\srtclean.csproj.GenerateResource.Cache
+obj\Debug\srtclean.exe
+obj\Debug\srtclean.pdb
+bin\Release\srtclean.exe
+bin\Release\srtclean.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\srtclean.FormSRTClean.resources
+obj\Release\srtclean.Properties.Resources.resources
+obj\Release\srtclean.csproj.GenerateResource.Cache
+obj\Release\srtclean.exe
+obj\Release\srtclean.pdb
